@@ -1,4 +1,4 @@
-# Automated e2e Testing of Single Page App with Playwright and qUnit
+# Automated e2e Testing of Single Page App with Playwright and QUnit
 
 [![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![QUnit](https://img.shields.io/badge/tested%20with-QUnit-9C4CB4.svg)](https://qunitjs.com/)
